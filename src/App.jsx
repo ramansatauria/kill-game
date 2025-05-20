@@ -1,3 +1,9 @@
 export default function App() {
-  return <div>Welcome to KillGame!</div>;
+  return (
+    <main>
+      <h1 className="text-5xl text-blue-500 font-bold ">
+        Welcome to KillGame!
+      </h1>
+    </main>
+  );
 }
